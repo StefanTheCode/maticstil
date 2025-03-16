@@ -1,0 +1,164 @@
+{
+  "nav": {
+    "home": "Home",
+    "about": "About",
+    "services": "Services",
+    "projects": "Projects",
+    "contact": "Contact"
+  },
+  "home": {
+    "hero": {
+      "title": "Crafting Timeless Elegance",
+      "subtitle": "Transform your space into a masterpiece of design with IVING Interior's luxury solutions.",
+      "cta": "Explore Our Work"
+    },
+    "features": {
+      "sustainable": {
+        "title": "Sustainable Design",
+        "description": "Creating beautiful spaces while respecting our environment."
+      },
+      "luxury": {
+        "title": "Luxury Living",
+        "description": "Elevating everyday experiences through sophisticated design."
+      },
+      "bespoke": {
+        "title": "Bespoke Solutions",
+        "description": "Tailored designs that reflect your unique style and needs."
+      }
+    },
+    "latestProjects": {
+      "title": "Latest Projects"
+    }
+  },
+  "services": {
+    "hero": {
+      "title": "Our Services",
+      "subtitle": "Comprehensive design solutions for every space"
+    },
+    "categories": {
+      "interiorDesign": {
+        "title": "Interior Design",
+        "description": "Comprehensive design solutions tailored to your lifestyle and preferences.",
+        "features": [
+          "Space Planning",
+          "Color Consultation",
+          "Material Selection",
+          "Custom Solutions"
+        ]
+      },
+      "commercial": {
+        "title": "Commercial Design",
+        "description": "Creating inspiring workspaces that enhance productivity and brand identity.",
+        "features": [
+          "Office Design",
+          "Retail Spaces",
+          "Hospitality",
+          "Corporate Branding"
+        ]
+      },
+      "residential": {
+        "title": "Residential Design",
+        "description": "Transforming houses into sophisticated, comfortable homes.",
+        "features": [
+          "Room Layout",
+          "Furniture Selection",
+          "Lighting Design",
+          "Art Curation"
+        ]
+      },
+      "furniture": {
+        "title": "Custom Furniture",
+        "description": "Bespoke furniture pieces designed to perfectly fit your space.",
+        "features": [
+          "Custom Design",
+          "Material Selection",
+          "Craftsmanship",
+          "Installation"
+        ]
+      },
+      "renovation": {
+        "title": "Renovation",
+        "description": "Complete renovation services from concept to completion.",
+        "features": [
+          "Project Planning",
+          "Construction Management",
+          "Material Sourcing",
+          "Quality Control"
+        ]
+      },
+      "consultation": {
+        "title": "Consultation",
+        "description": "Expert advice to guide your design decisions and investments.",
+        "features": [
+          "Design Strategy",
+          "Budget Planning",
+          "Timeline Management",
+          "Vendor Selection"
+        ]
+      }
+    },
+    "process": {
+      "title": "Our Process",
+      "steps": {
+        "consultation": {
+          "title": "Consultation",
+          "description": "Initial meeting to understand your vision and requirements"
+        },
+        "concept": {
+          "title": "Design Concept",
+          "description": "Development of design concepts and mood boards"
+        },
+        "implementation": {
+          "title": "Implementation",
+          "description": "Execution of the approved design plan"
+        },
+        "completion": {
+          "title": "Completion",
+          "description": "Final touches and project handover"
+        }
+      }
+    }
+  },
+  "projects": {
+    "hero": {
+      "title": "Our Projects"
+    },
+    "categories": {
+      "all": "All",
+      "residential": "Residential",
+      "commercial": "Commercial",
+      "hospitality": "Hospitality"
+    },
+    "viewDetails": "View Details",
+    "closeModal": "Close"
+  },
+  "contact": {
+    "hero": {
+      "title": "Contact Us"
+    },
+    "form": {
+      "name": "Name",
+      "email": "Email",
+      "subject": "Subject",
+      "message": "Message",
+      "submit": "Send Message",
+      "placeholders": {
+        "name": "Your name",
+        "email": "Your email",
+        "subject": "Subject",
+        "message": "Your message"
+      }
+    },
+    "info": {
+      "title": "Get in Touch",
+      "email": "Email",
+      "phone": "Phone",
+      "address": "Address",
+      "hours": "Hours",
+      "workingHours": {
+        "weekdays": "Monday - Friday: 9am - 6pm",
+        "saturday": "Saturday: 10am - 4pm"
+      }
+    }
+  }
+}

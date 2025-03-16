@@ -1,0 +1,162 @@
+{
+  "nav": {
+    "home": "Početna",
+    "about": "O nama",
+    "services": "Usluge",
+    "projects": "Projekti",
+    "contact": "Kontakt"
+  },
+  "home": {
+    "hero": {
+      "title": "Stvaramo bezvremensku eleganciju",
+      "subtitle": "Transformišite svoj prostor u remek-delo dizajna sa IVING Interior luksuznim rešenjima.",
+      "cta": "Istražite naš rad"
+    },
+    "features": {
+      "sustainable": {
+        "title": "Održivi dizajn",
+        "description": "Stvaramo prelepe prostore poštujući našu okolinu."
+      },
+      "luxury": {
+        "title": "Luksuzan život",
+        "description": "Uzdižemo svakodnevna iskustva kroz sofisticirani dizajn."
+      },
+      "bespoke": {
+        "title": "Prilagođena rešenja",
+        "description": "Dizajn prilagođen vašem jedinstvenom stilu i potrebama."
+      }
+    },
+    "latestProjects": {
+      "title": "Najnoviji projekti"
+    }
+  },
+  "services": {
+    "hero": {
+      "title": "Naše usluge",
+      "subtitle": "Sveobuhvatna dizajnerska rešenja za svaki prostor"
+    },
+    "categories": {
+      "interiorDesign": {
+        "title": "Idejno rešenje",
+        "description": "Ova usluga je za Vas ukoliko nemate ideju kako da uredite svoj životni prostor, da izvršite odabir nameštaja, boje za zidove, zidne obloge, rasvetu i dekoraciju.",
+        "features": [
+          "Potpuno i kompletno osmišljen prostor, pažljivo dizajniran prema Vašim željama i potrebama",
+          "Dispoziciju nameštaja, mood board i dekoraciju",
+          "Spisak nameštaja i dekoracije za kupovinu."
+        ]
+      },
+      "commercial": {
+        "title": "Dizajn enterijera",
+        "description": "Ova usluga je za Vas ukoliko želite lep i funkcionalan prostor dizajniran od strane stručnjaka. Kompletna ideja budućeg dizajna prepuštena je iskusnom timu. Izlazak na teren je uključen u cenu.",
+        "features": [
+          "Idejno rešenje",
+          "3D model - prikaz dizajna kroz rendere",
+          "2D tehničke crteže za majstore",
+          "Spisak nameštaja i galanterije za kupovinu"
+        ]
+      },
+      "residential": {
+        "title": "Izrada nameštaja po meri",
+        "description": "Ova usluga je za Vas ukoliko želite da potpuno odlučujete o izgledu vašeg nameštaja.",
+        "features": [
+          "2D tehničke crteže za majstore",
+          "Odabir materijala, dezena, boja",
+          "Spisak galanterije za kupovinu",
+          "Izlazak na teren je uključen u cenu."
+        ]
+      },
+      "furniture": {
+        "title": "Zidne obloge",
+        "description": "Usluga je za sve one koji žele da ulepšaju svoje zidove raznovrsnim savremenim idejama:",
+        "features": [
+          "Odabir dizajna",
+          "Ova usluga je koncipirana po prostoriji"
+        ]
+      },
+     
+      "consultation": {
+        "title": "Montaža",
+        "description": "Montiramo sve u Vašem domu bla bla...",
+        "features": [
+          "Upoznavanje sa problematikom i prostorom",
+          "Razgovor u trajanju od sat vremena gde ćemo rešiti sve nedoumice i gde ćete dobiti profesionalne savete",
+          "Rešavanje dileme oko rasporeda, materijala, boja kao i stila uređenja enterijera"
+        ]
+      },
+      "renovation": {
+        "title": "Nameštaj od medijapana i iverice",
+        "description": "Izrađujemo nemeštaj od medijapana i iverice.",
+        "features": [
+          "Planiranje projekta",
+          "Upravljanje izgradnjom",
+          "Nabavka materijala",
+          "Bla, bla",
+          "Kontrola kvaliteta"
+        ]
+      }
+    },
+    "process": {
+      "title": "Naš proces",
+      "steps": {
+        "consultation": {
+          "title": "Konsultacije",
+          "description": "Inicijalni sastanak za razumevanje vaše vizije i zahteva"
+        },
+        "concept": {
+          "title": "Koncept dizajna",
+          "description": "Razvoj dizajnerskih koncepata i mood board-a"
+        },
+        "implementation": {
+          "title": "Implementacija",
+          "description": "Izvođenje odobrenog plana dizajna"
+        },
+        "completion": {
+          "title": "Završetak",
+          "description": "Finalni detalji i predaja projekta"
+        }
+      }
+    }
+  },
+  "projects": {
+    "hero": {
+      "title": "Naši projekti"
+    },
+    "categories": {
+      "all": "Sve",
+      "residential": "Projektovanje enterijera",
+      "commercial": "Nameštaj po meri",
+      "hospitality": "Zidne obloge"
+    },
+    "viewDetails": "Pogledaj detalje",
+    "closeModal": "Zatvori"
+  },
+  "contact": {
+    "hero": {
+      "title": "Kontaktirajte nas"
+    },
+    "form": {
+      "name": "Ime",
+      "email": "Email",
+      "subject": "Naslov",
+      "message": "Poruka",
+      "submit": "Pošalji poruku",
+      "placeholders": {
+        "name": "Vaše ime",
+        "email": "Vaš email",
+        "subject": "Naslov",
+        "message": "Vaša poruka"
+      }
+    },
+    "info": {
+      "title": "Stupite u kontakt",
+      "email": "Email",
+      "phone": "Telefon",
+      "address": "Adresa",
+      "hours": "Radno vreme",
+      "workingHours": {
+        "weekdays": "Ponedeljak - Petak: 9h - 18h",
+        "saturday": "Subota: 10h - 16h"
+      }
+    }
+  }
+}

@@ -1,0 +1,99 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@import url('https://fonts.googleapis.com/css2?family=Cormorant+Garamond:wght@400;500;600;700&display=swap');
+
+@layer base {
+  html {
+    font-family: system-ui, -apple-system, sans-serif;
+    scroll-behavior: smooth;
+  }
+  
+  .font-serif {
+    font-family: 'Cormorant Garamond', serif;
+  }
+}
+
+@layer utilities {
+  .text-gold {
+    color: #D4AF37;
+  }
+  
+  .text-gold-dark {
+    color: #B8860B;
+  }
+  
+  .bg-gold {
+    background-color: #D4AF37;
+  }
+
+  .bg-gold-dark {
+    background-color: #B8860B;
+  }
+
+  .border-gold {
+    border-color: #D4AF37;
+  }
+
+  .hover-gold-effect {
+    @apply transition-all duration-300;
+  }
+  
+  .hover-gold-effect:hover {
+    @apply text-gold;
+    text-shadow: 0 0 10px rgba(212, 175, 55, 0.3);
+  }
+
+  .gold-gradient {
+    background: linear-gradient(135deg, #D4AF37 0%, #B8860B 100%);
+  }
+
+  .black-gradient {
+    background: linear-gradient(135deg, #000000 0%, #1a1a1a 100%);
+  }
+}
+
+/* Animation Classes */
+.fade-up {
+  opacity: 0;
+  transform: translateY(20px);
+  animation: fadeUp 0.6s ease forwards;
+}
+
+@keyframes fadeUp {
+  to {
+    opacity: 1;
+    transform: translateY(0);
+  }
+}
+
+.slide-in {
+  opacity: 0;
+  transform: translateX(-20px);
+  animation: slideIn 0.6s ease forwards;
+}
+
+@keyframes slideIn {
+  to {
+    opacity: 1;
+    transform: translateX(0);
+  }
+}
+
+/* Stagger children animations */
+.stagger-children > * {
+  opacity: 0;
+  animation: fadeIn 0.5s ease forwards;
+}
+
+.stagger-children > *:nth-child(1) { animation-delay: 0.1s; }
+.stagger-children > *:nth-child(2) { animation-delay: 0.2s; }
+.stagger-children > *:nth-child(3) { animation-delay: 0.3s; }
+.stagger-children > *:nth-child(4) { animation-delay: 0.4s; }
+
+@keyframes fadeIn {
+  to {
+    opacity: 1;
+  }
+}
